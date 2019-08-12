@@ -1,0 +1,5 @@
+latitude,longitude,event
+33.758652,-84.39841,Atlanta ComicCon
+35.21983245,-80.84049664,HeroesCon
+41.98782938,-87.87099652,WizardsCon CHI
+32.707,-117.163,SDCC
